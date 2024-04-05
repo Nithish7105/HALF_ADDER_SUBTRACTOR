@@ -69,8 +69,8 @@ assign D = a ^ b;
 endmodule
 
 
-Developed by: VARSHA A
-RegisterNumber: 212223220121
+Developed by: NITHISH KUMAR.B
+RegisterNumber: 212223040134
 ~~~
 
 */
